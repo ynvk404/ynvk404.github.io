@@ -1,7 +1,5 @@
 # 🌐 Personal Website - youngnvk
 
-This repository hosts my **personal website and blog** built with **GitHub Pages (Jekyll - Minima theme)**.
-
 ---
 
 ## 🔎 About
