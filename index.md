@@ -3,12 +3,14 @@ layout: home
 title: "Home"
 ---
 
-# 👋 Welcome to my personal website
+<h1>👋 Welcome to my personal website</h1>
 
-Xin chào, mình là **Nguyễn Văn Khải** (*youngnvk*).  
-Đây là nơi mình chia sẻ về:
-- 🔐 Cybersecurity & Web Security  
-- 🛠️ Projects & Labs  
-- 📖 Research & CVE Analysis  
+<p>Xin chào, mình là <b>Nguyễn Văn Khải</b> (<i>youngnvk</i>).</p>
+<p>Đây là nơi mình chia sẻ về:</p>
+<ul>
+  <li>🔐 Cybersecurity & Web Security</li>
+  <li>🛠️ Projects & Labs</li>
+  <li>📖 Research & CVE Analysis</li>
+</ul>
 
-👉 Xem thêm tại [About](/about/) và [Projects](/projects/).
+<p>👉 Xem thêm tại <a href="/about/">About</a> và <a href="/projects/">Projects</a>.</p>
