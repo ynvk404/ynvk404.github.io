@@ -1,3 +1,17 @@
 theme: minima
-title: "CVE Research Blog"
-description: "Case studies and labs for web CVEs"
+title: "youngnvk"
+description: "Personal website and blog — cybersecurity, projects, research, and more"
+
+author:
+  name: "Nguyễn Văn Khải"
+  email: "youngnvk@gmail.com"
+
+minima:
+  social_links:
+    github: ynvk404
+    facebook: https://www.facebook.com/young.nvk
+    instagram: https://www.instagram.com/young.nvk/
+    email: youngnvk@gmail.com
+
+exclude:
+  - README.md
