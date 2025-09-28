@@ -1,10 +1,5 @@
 theme: minima
 title: "youngnvk"
-description: "Personal website and blog — cybersecurity, projects, research, and more"
-
-author:
-  name: "Nguyễn Văn Khải"
-  email: "youngnvk@gmail.com"
 
 minima:
   social_links:
